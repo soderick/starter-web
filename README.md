@@ -8,8 +8,10 @@ Hello
 
 ## Purpose
 
+Who knows?
+
 ## Deployment
 
-Sample website with plenty of files for demos
+This is a simple web app
 
 ## How to Contribute

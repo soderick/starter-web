@@ -15,3 +15,7 @@ Who knows?
 This is a simple web app
 
 ## How to Contribute
+
+## Copyright
+
+Git.Training
